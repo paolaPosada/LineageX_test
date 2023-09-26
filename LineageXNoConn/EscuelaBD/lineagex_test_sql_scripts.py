@@ -1,3 +1,3 @@
 
 from lineagex.lineagex import lineagex
-lineagex(sql="EscuelaBD")
+lineagex(sql="LineageXNoConn\EscuelaBD")
